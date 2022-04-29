@@ -1,1 +1,2 @@
 This is the first entry in text.txt
+second Entry
